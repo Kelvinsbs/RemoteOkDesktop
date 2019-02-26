@@ -13,8 +13,11 @@ Fizemos uma aplicação que recebe todos os jobs do site [Remote Jobs](https://r
 ## Licença:
 
 ## Autores:
+- Ana
+- Jeniffer
+- Kelvin
+- Marina
 
-
-Links(anotações):
-[remote](https://remoteok.io/)
-[medium](https://medium.com/topic/technology) para fazer o artigo
+## Links(anotações):
+- [remote](https://remoteok.io/)
+- [medium](https://medium.com/topic/technology) para fazer o artigo
